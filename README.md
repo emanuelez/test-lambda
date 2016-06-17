@@ -1,6 +1,3 @@
 # test-lambda
 
-This line should create a merge conflict against master
-
-Test commit #1
-Test commit #2
+this is just a test repo to play with AWS Lambda
